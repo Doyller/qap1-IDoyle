@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="devops-qap1" />
+        <module name="qap1-IDoyle" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="qap1-IDoyle" target="20" />
+      <module name="devops-qap1" target="20" />
     </bytecodeTargetLevel>
   </component>
 </project>
